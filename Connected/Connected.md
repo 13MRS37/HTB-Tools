@@ -71,7 +71,7 @@ Setup listener and runned the script. After ~60s we got access.
 Located at:
 
 ```bash
-/home/cat.txt
+/home/user.txt
 ```
 
 **User Flag captured** 
