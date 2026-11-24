@@ -66,15 +66,15 @@ Setup listener and runned the script. After ~60s we got access.
 - **GID:** 1000
 - **Groups:** asterisk
 
-## Commands
+### User Flag
 
-| Command | Result |
-|---|---|
-| `whoami` | asterisk |
-| `id` | UID/GID and group info |
-| `sudo -l` | Failed: no TTY available |
-| `ls` | Found `user.txt` |
-| `cat user.txt` | Retrieved user flag |
+Located at:
+
+```bash
+/home/cat.txt
+```
+
+**User Flag captured** 
 
 ## Privilege Escalation to Root
 
