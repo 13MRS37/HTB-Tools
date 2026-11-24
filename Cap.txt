@@ -1,0 +1,9 @@
+for p in captures/*.pcap; do
+  echo "== $p frames containing 'password' =="
+  tshark -r "$p" -V 2>/dev/null | egrep -i -n 'password|passwd|username|login' | sed -n '1,40p' && echo "----"
+done
+
+
+
+
+
