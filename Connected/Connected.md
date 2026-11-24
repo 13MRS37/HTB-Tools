@@ -1,3 +1,4 @@
+> [!info] Obsidian Notes
 - Starting with nmap to scan which services is running.
 
 ```bash
