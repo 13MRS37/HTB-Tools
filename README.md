@@ -1,4 +1,4 @@
-# Hack The Box — Tools & Resources
+# Hack The Box - Tools, Resources & Writeups
 
 A personal collection of tools, scripts, exploits, commands, and resources used during my **Hack The Box (HTB)** machine-solving sessions.
 
